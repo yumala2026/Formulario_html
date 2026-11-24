@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    font-family: "Timers New Roman", serif;
+
+}
+.carta{
+    width: 320px;
+    height: 280px;
+    background-color: #92fff0;
+
+    border: 2px solid #ff00f2;
+
+    margin: 30px;
+
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #002fff;
+    font-size: 22px;
+    font-weight: bold; /* Negrita */
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+}
